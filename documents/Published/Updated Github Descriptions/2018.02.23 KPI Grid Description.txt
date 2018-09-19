@@ -7,8 +7,8 @@ KPI Grid by MAQ Software allows users to track productivity and performance data
 KPI Grid by MAQ Software is useful for adding visual interest to reports, such as yearly sales data. In addition to displaying the data, users can add images to emphasize trends.
 
 Key features:
-•	Include custom images such as rising or falling arrows.
-•	Include separators between columns, highlighting certain categories for quick comparison.
-•	Change row background colors, text size, and text color.
+â€¢	Includes custom images such as rising or falling arrows.
+â€¢	Includes separators between columns, highlighting certain categories for quick comparison.
+â€¢	Includes capability to change row background colors, text size, and text color.
 
 For any feature requests or questions about this visual, please send an e-mail to our team at support@maqsoftware.com.
