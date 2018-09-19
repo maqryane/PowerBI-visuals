@@ -9,6 +9,6 @@ Journey Chart by MAQ Software is useful for explaining process flow, uncovering 
 Key features:
 •	Text labels and tooltips for each node provide information such as title or value.
 •	Customize colors and sizes for text labels.
-•	Option to add a legend to clarify complex graphs. 
+•	Add an optional legend to clarify complex graphs. 
 
 For any feature requests or questions about this visual, please send an e-mail to our team at support@maqsoftware.com.
