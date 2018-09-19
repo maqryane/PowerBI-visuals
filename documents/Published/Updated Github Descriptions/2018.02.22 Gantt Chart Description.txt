@@ -7,11 +7,11 @@ Gantt charts are used for scheduling and task management. Ordinary Gantt charts 
 With Gantt Chart by MAQ  Software, project managers can monitor project IDs, start times, end times, current status, project duration, project owners, and task priorities, as well as many other KPIs. Users can also view individual tasks and their progress.
 
 Key features:
-•	Hierarchical view with expand / collapse option for parent levels.
+•	Hierarchical view with expand/collapse option for parent levels.
 •	Color bars based on category.
 •	Task details on grid with hierarchy.
-•	Showcase the task status as of the current date.
-•	Sort data based on any parameter of grid.
-•	Display tooltips for column headers, category labels, KPI indicators, data labels, and bars.
+•	Task status with the current date.
+•	Data sorted based on any parameter of grid.
+•	Tooltips for column headers, category labels, KPI indicators, data labels, and bars.
 
 For any feature requests or questions about this visual, please send an e-mail to our team at support@maqsoftware.com.
